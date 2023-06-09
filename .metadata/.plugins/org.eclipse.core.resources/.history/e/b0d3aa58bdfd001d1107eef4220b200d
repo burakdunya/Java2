@@ -1,0 +1,6 @@
+
+public class KrediUI {
+	public void Kredihesapla(OgretmenKrediManager ogretmenKrediManager) {
+		ogretmenKrediManager.Hesapla();
+	}
+}
